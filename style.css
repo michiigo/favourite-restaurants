@@ -1,0 +1,48 @@
+html {
+    box-sizing: border-box;
+}
+h1 {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-family: Florence, cursive;
+	font-size: 2rem;
+	color: #923621; 
+}
+h2 {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 1.8rem;
+	font-style: italic;
+	color: #B04932;
+}
+body {
+    font-family: calibri;
+    font-size: 1.2rem;
+    line-height: 1;
+    margin-left: 10rem;
+	margin-right: 10rem;
+	text-align: center
+}
+.background {
+	background-image: url('images/Food Background.jpg');
+	margin-top: 1rem;
+	padding: 3rem 7rem 2rem 7rem;
+	color: #B04932;
+	font-size: 1.5rem;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+table {
+	padding-top: 2rem;
+}
+.button {
+	color: #923621;
+	background-color: #FEF1D1;
+	margin: 1rem 0.3rem 1rem 0.5rem;
+	display: inline-block;
+}
+.button:hover {
+	background-color: #ECD9AA;
+}
